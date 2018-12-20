@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">wifi Hacker</string>
+    <string name="company_profile">Upwasoft</string>
+
+    <string name="share_app">Share App</string>
+    <string name="settings">App Settings</string>
+    <string name="more_apps">More Apps</string>
+    <string name="about_us">About Us</string>
+    <string name="quit_app">Quit App</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2181945011374376/2645335643</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2181945011374376/5598802043</string>
+</resources>

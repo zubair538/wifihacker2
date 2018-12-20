@@ -1,0 +1,4 @@
+#Thu Dec 20 20:50:39 PKT 2018
+base.0=D\:\\final project\\wifihacker2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\final project\\wifihacker2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

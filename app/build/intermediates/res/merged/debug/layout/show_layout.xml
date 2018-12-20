@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ba"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/uper_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/pass_id"
+            android:layout_alignLeft="@+id/pass_id"
+            android:layout_alignRight="@+id/pass_id"
+            android:layout_alignStart="@+id/pass_id"
+            android:textColor="#000000"
+            android:layout_below="@+id/pass_id"
+            android:text="Connection Name: Upwasoft 1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/pass_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/fre_id"
+            android:layout_alignLeft="@+id/fre_id"
+            android:layout_alignRight="@+id/fre_id"
+            android:layout_alignStart="@+id/fre_id"
+            android:layout_below="@+id/fre_id"
+            android:layout_marginBottom="10dp"
+            android:textColor="#000000"
+            android:layout_marginTop="10dp"
+            android:text="Connection Name: Upwasoft 1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/fre_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/con_id"
+            android:layout_alignLeft="@+id/con_id"
+            android:layout_alignRight="@+id/con_id"
+            android:layout_alignStart="@+id/con_id"
+            android:textColor="#000000"
+            android:layout_alignTop="@+id/con_id"
+            android:layout_marginTop="35dp"
+            android:text="Connection Name: Upwasoft 1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/con_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:textColor="#000000"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="Connection Name: Upwasoft 1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:text="Wifi Details" />
+</RelativeLayout>

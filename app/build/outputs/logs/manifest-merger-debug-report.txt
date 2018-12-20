@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:8:5-83
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:10:5-52:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shinwari\.android\build-cache\0832150321629cc831f17822d4142d10891e80ac\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shinwari\.android\build-cache\3fb7d831a8a82739ba496add50529ca5ec39d5b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\shinwari\.android\build-cache\54462e9e6030d0da999c560ac8761f6d9e3bf01b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\shinwari\.android\build-cache\7e9512863bd23533fa42032f30c3797856354e56\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\shinwari\.android\build-cache\b0a9f33f44a8338473da6753f3202b36cc5d677a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\shinwari\.android\build-cache\98ab5490b126b90cd6c6d40dff7bc58066974abc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\shinwari\.android\build-cache\289bcf2132063704ef57a62b558c53012f20795a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\shinwari\.android\build-cache\35aea52026b16f9423f8a88fbfd35a57169dfeef\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\shinwari\.android\build-cache\f7c59a996738a933a4ecb42293d679651415273e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\shinwari\.android\build-cache\df5eb6a1f3e7daf075d575b8b59dc26eed6995c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\shinwari\.android\build-cache\59186209c72a02df098d10db57bd4ad280c1e98c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\shinwari\.android\build-cache\8cf6a0bc815b3e00c1c67d36c0a6244393c09bda\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shinwari\.android\build-cache\7413f5163eaa3c9b96837ea0abb02af5a733fc6b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shinwari\.android\build-cache\b4f3334c8e24f726b0cde495345c6ade1fbd013e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shinwari\.android\build-cache\83791bde457ec6df79ecce54236b35cca692fa12\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:12:9-43
+	android:largeHeap
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:14:9-33
+	android:theme
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.google.android.gms.version
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\shinwari\.android\build-cache\f7c59a996738a933a4ecb42293d679651415273e\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.example.muhammadfahim.wifihacker2.Splash
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:21:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.muhammadfahim.wifihacker2.MainActivity
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:28:9-30:61
+	android:screenOrientation
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:28:19-47
+activity#com.example.muhammadfahim.wifihacker2.Loading_page
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:31:9-33:61
+	android:screenOrientation
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:31:19-47
+activity#com.example.muhammadfahim.wifihacker2.Wifi_Con
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:34:19-43
+activity#com.example.muhammadfahim.wifihacker2.Show_wifi
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:36:9-38:61
+	android:screenOrientation
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:36:19-44
+activity#com.example.muhammadfahim.wifihacker2.AboutUsActivity
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:39:9-41:61
+	android:screenOrientation
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:39:19-50
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:42:9-44:70
+	android:value
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:43:13-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:48:9-50:64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:49:13-122
+	android:theme
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:50:13-61
+	android:name
+		ADDED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml:48:19-71
+uses-sdk
+INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shinwari\.android\build-cache\0832150321629cc831f17822d4142d10891e80ac\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shinwari\.android\build-cache\3fb7d831a8a82739ba496add50529ca5ec39d5b4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\shinwari\.android\build-cache\54462e9e6030d0da999c560ac8761f6d9e3bf01b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\shinwari\.android\build-cache\7e9512863bd23533fa42032f30c3797856354e56\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\shinwari\.android\build-cache\5c52e020a7375f1f942d36bb539523fafb248362\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\shinwari\.android\build-cache\b0a9f33f44a8338473da6753f3202b36cc5d677a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:10.2.4] C:\Users\shinwari\.android\build-cache\b090257042546dc669a7e524b91c2315eac5c3ca\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\shinwari\.android\build-cache\98ab5490b126b90cd6c6d40dff7bc58066974abc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\shinwari\.android\build-cache\289bcf2132063704ef57a62b558c53012f20795a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\shinwari\.android\build-cache\35aea52026b16f9423f8a88fbfd35a57169dfeef\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\shinwari\.android\build-cache\f7c59a996738a933a4ecb42293d679651415273e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\shinwari\.android\build-cache\df5eb6a1f3e7daf075d575b8b59dc26eed6995c9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\shinwari\.android\build-cache\59186209c72a02df098d10db57bd4ad280c1e98c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\shinwari\.android\build-cache\8cf6a0bc815b3e00c1c67d36c0a6244393c09bda\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shinwari\.android\build-cache\7413f5163eaa3c9b96837ea0abb02af5a733fc6b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shinwari\.android\build-cache\b4f3334c8e24f726b0cde495345c6ade1fbd013e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shinwari\.android\build-cache\83791bde457ec6df79ecce54236b35cca692fa12\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final project\wifihacker2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\shinwari\.android\build-cache\3fb7d831a8a82739ba496add50529ca5ec39d5b4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\shinwari\.android\build-cache\54462e9e6030d0da999c560ac8761f6d9e3bf01b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\shinwari\.android\build-cache\7e9512863bd23533fa42032f30c3797856354e56\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\shinwari\.android\build-cache\5c52e020a7375f1f942d36bb539523fafb248362\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\shinwari\.android\build-cache\b0a9f33f44a8338473da6753f3202b36cc5d677a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\shinwari\.android\build-cache\df5eb6a1f3e7daf075d575b8b59dc26eed6995c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\shinwari\.android\build-cache\59186209c72a02df098d10db57bd4ad280c1e98c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\shinwari\.android\build-cache\8cf6a0bc815b3e00c1c67d36c0a6244393c09bda\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\shinwari\.android\build-cache\7413f5163eaa3c9b96837ea0abb02af5a733fc6b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\shinwari\.android\build-cache\b4f3334c8e24f726b0cde495345c6ade1fbd013e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\shinwari\.android\build-cache\83791bde457ec6df79ecce54236b35cca692fa12\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\AndroidManifest.xml:19:19-85

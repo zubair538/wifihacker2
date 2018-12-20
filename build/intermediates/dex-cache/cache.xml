@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_fe080619ce0a52f83bb17d9191d197ab5919de3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\7e9512863bd23533fa42032f30c3797856354e56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_bc107d956b441b3dab44044332aa8c15e3f69c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\3fb7d831a8a82739ba496add50529ca5ec39d5b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_8d7ba491e1491836cb82e33c285d873187c80fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\df5eb6a1f3e7daf075d575b8b59dc26eed6995c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_ce9b41d6a5452e00942544bb0bdf6ede5b6c4b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\59186209c72a02df098d10db57bd4ad280c1e98c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_1f1e4fd0e286f7ea084d448cafd69b13c0f63146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\98ab5490b126b90cd6c6d40dff7bc58066974abc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_bad9c79e34e8f5e26138e8078f448294659e3645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\289bcf2132063704ef57a62b558c53012f20795a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_864eabdd8ca9092d9629750badb84cbdd950c020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\b0a9f33f44a8338473da6753f3202b36cc5d677a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_ed073154a7aadc1f95c9f075e33e8f600b27d5bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\3278e19aab27165468f726535d196893cf0821c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_d39f9ed6ac7c2c9ec3effb4c6ba4a3724f7a9d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\5c52e020a7375f1f942d36bb539523fafb248362\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_de68ecfabdebe65efc848efd7d8b5145b4f5709f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\54462e9e6030d0da999c560ac8761f6d9e3bf01b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_e31b4df55e4f01b7ae5daa90d917f804027f26e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\b4f3334c8e24f726b0cde495345c6ade1fbd013e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_78c12e1ee95d8d6048ef28bbe3eb575a9911b31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\0832150321629cc831f17822d4142d10891e80ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_82de55c9f79e182bc3e4c1903978fe13eadfa02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\8cf6a0bc815b3e00c1c67d36c0a6244393c09bda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_224340a5b5ded272907ef4ff42cbcc7547d54668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\5abe6c4d3218a3fccb8aeb90af18b89a5a919e06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_e9250c5fb949596ed5c2242749abc174d7f67cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\83791bde457ec6df79ecce54236b35cca692fa12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_a043a476fcadfeb70a66e3e0cb662ffdc8db72b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\f7c59a996738a933a4ecb42293d679651415273e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_5d28dc7177eec45b1bab45bfe82c43b8af0a7223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\35aea52026b16f9423f8a88fbfd35a57169dfeef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_8e44e02e9b547d4ff919fd1c160eb2bedc58eefa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_bffc4ef205d1010e6018b8f36b6e88c3e733c738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\7413f5163eaa3c9b96837ea0abb02af5a733fc6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_ae76ae2c2a7b0e482eeffdf3760004f0d6a095ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\b090257042546dc669a7e524b91c2315eac5c3ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_1db423bf1dc5bd3e20e0d87d4a58d64a95ed8ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shinwari\.android\build-cache\55e706552f3894b4f3a18ce65702c5ad6ffb95d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\final project\wifihacker2\app\build\intermediates\pre-dexed\debug\classes_8ab31d3a8542913668bf1d8ee98c048ca7438bd1.jar" />
+    </item>
+
+</items>
